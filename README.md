@@ -1,10 +1,10 @@
 # Coronavirus infections data for Poland in 2020 (COVID-19 / 2019-nCoV)
 
-This public repository archives data over time from various public sources on the web. Data was collected by GeoSiN Scientific Club Members from University of Warmia and Mazury in Olsztyn, Poland (www.geosin.pl). 
-
-Data is presented as a CSV file where every row is a single event (Infection/Death/Recovery) with the date, city, province and personal information about the patient.
+The dataset contains the latest available public data on COVID-19 infections in Poland including a daily situation update. Data is presented as a CSV file where every row is a single event (Infection/Death/Recovery) with the date, city, province and personal information about the patient.
 
 We hope that this data will be useful to those producing visualizations or analyses.
+
+Data was collected by GeoSiN Scientific Club Members from University of Warmia and Mazury in Olsztyn, Poland (www.geosin.pl). 
 
 Reference:
 

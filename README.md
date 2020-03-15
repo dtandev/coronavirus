@@ -10,4 +10,4 @@ Data was collected by GeoSiN Scientific Club Members from University of Warmia a
 
 Reference:
 
-D. Tanajewski, A. Gleba, P. Borsuk, M. Augustynowisz, T. Kozakiewicz: "Coronavirus infections data for Poland in 2020 (COVID-19 / 2019-nCoV)", 2020, GitHub, GitHub/dtandev/coronavirus, https://github.com/dtandev/coronavirus
+D. Tanajewski, A. Gleba, P. Borsuk, M. Augustynowisz, T. Kozakiewicz: "Coronavirus infections data for Poland in 2020 (COVID-19 / 2019-nCoV)", 2020, GitHub, GitHub/dtandev/coronavirus, https://github.com/dtandev/coronavirus, commit_number (the latest: bff882f4e2ed9730fade6d753b0cdbd628e58cd0)

@@ -7,4 +7,5 @@ Data is presented as a CSV file where every row is a single event (Infection/Dea
 I hope that this data will be useful to those producing visualizations or analyses.
 
 Reference:
+
 D. Tanajewski, A. Gleba, P. Borsuk, M. Augustynowisz, T. Kozakiewicz: "Coronavirus infections data for Poland in 2020", https://github.com/dtandev/coronavirus

@@ -21,6 +21,14 @@ DD-MM-YYYY in UTC.
 * Who_infected: who could be the source of the infection [Friends/Family/Another patient/Travel co-passenger)
 * Age: How old is the patient? [F(emale)/M(ale)]
 
+## Isolation wards dataset (Isolation_ward_PL.csv)
+
+Dataset contains information about Isolation Wards, which were created in Poland.
+
+
+### Field description
+
+
 ### Update frequency
 * We tried update our dataset twice a day. But somedays dataset caould be updated once, around 23:00 UTC+1.
 

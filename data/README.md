@@ -1,6 +1,6 @@
 # CSSE COVID-19 in Poland Dataset
 
-## Daily reports (CoronavirusPL - Timeseries.csv)
+## Daily events dataset (CoronavirusPL - Timeseries.csv)
 
 This folder contains dataset with timestamped informations about infections, death and recoveries in Poland since 04-03-2020. 
 Dataset based on official statements presented by the Ministry of Health and Provincial Departments. 

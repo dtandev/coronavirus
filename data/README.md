@@ -36,4 +36,4 @@ Dataset based on official statements presented by the Ministry of Health, Provin
 * Find us on the Facebook (www.facebook.com/mkn.geosin) or www (www.geosin.pl)
 
 ## Reference
-D. Tanajewski, A. Gleba, P. Borsuk, M. Augustynowisz, T. Kozakiewicz: "Coronavirus infections data for Poland in 2020 (COVID-19 / 2019-nCoV)", 2020, GitHub, GitHub/dtandev/coronavirus, https://github.com/dtandev/coronavirus, the commit number
+D. Tanajewski, A. Gleba, P. Borsuk, M. Augustynowicz, T. Kozakiewicz: "Coronavirus infections data for Poland in 2020 (COVID-19 / 2019-nCoV)", 2020, GitHub, GitHub/dtandev/coronavirus, https://github.com/dtandev/coronavirus, the commit number

@@ -21,7 +21,7 @@ DD-MM-YYYY in UTC.
 * Who_infected: who could be the source of the infection [Friends/Family/Another patient/Travel co-passenger)
 * Age: How old is the patient? [F(emale)/M(ale)]
 
-## Isolation wards dataset (CoronavirusPL - Oddzialy_zakazne.csv)
+## Isolation wards dataset (CoronavirusPL - Isolation_wards.csv)
 
 Dataset contains information about Isolation Wards, which were created in Poland.
 

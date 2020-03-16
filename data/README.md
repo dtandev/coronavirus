@@ -32,5 +32,5 @@ Dataset based on official statements presented by the Ministry of Health, Provin
 
 ---
 ## Who makes a dataset
-* Data was collected by GeoSiN Scientific Club Members from University of Warmia and Mazury in Olsztyn, Poland 
+* Data was collected by GeoSiN Scientific Club Members from the University of Warmia and Mazury in Olsztyn, Poland 
 * Find us on the Facebook (www.facebook.com/mkn.geosin) or www (www.geosin.pl)

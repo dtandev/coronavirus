@@ -1,4 +1,4 @@
-# Coronavirus infections data for Poland in 2020 (COVID-19 / 2019-nCoV)
+# Coronavirus infections in Poland, 2020, dataset (COVID-19 / 2019-nCoV)
 
 Last update: 15/03/2020 23:30 (UTC+1)
 

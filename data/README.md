@@ -27,7 +27,7 @@ Dataset contains information about Isolation Wards, which were created in Poland
 
 
 ### Field description
-* Szpital: Hospital name [DD-MM-YYYY]
+* Szpital: Hospital name
 * Adres: Address of hospital 
 * B: Latitude [DD.DDDD]
 * L: Longitude [DD.DDDD]

@@ -5,7 +5,13 @@ The dataset contains the latest available public data on COVID-19 infections in 
 # Comments to dataset
 
 ## 18/03/2020
-* The government map about the diagnosed patients was generalized to voivodeships. The earlier map was divided into counties. Now, if we cannot match patients to their cities, the value in the 'city' column is the capital of the county (1) or, if it is unavailable, voivodeships (2). Sometimes some values may be updated later. 
+* The government map about the diagnosed patients was generalized to voivodeships. The earlier map was divided into counties. Now, if we cannot match patients to their cities, the value in the 'city' column is the capital of the county (1) or, if it is unavailable, the city of staying (2) or voivodeship capital (3). In this order. Sometimes some values may be updated later. 
+
+### Order of importance in 'city' column
+1. City where a patient lives
+2. County capital, where a patient lives
+3. Place where the patient stays in the hospital
+4. Voivodeship capital, where a patient lives
 
 ## 17/03/2020 
 * Since yesterday the Ministry of Health stopped inform about cities where patients were diagnosed. We have information only about voivodeships. 

@@ -54,7 +54,7 @@ Dataset contains general information about COVID-19 pandemy in Poland.
 Dataset based on official statements presented by the Ministry of Health, Provincial Departments and local media. 
 
 ### Update frequency
-* Once a day.
+* Once a day (the next day morning) 
 
 ---
 ## Who makes a dataset

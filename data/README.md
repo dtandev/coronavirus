@@ -32,14 +32,29 @@ Dataset contains information about Isolation Wards, which were created in Poland
 * B: Latitude [DD.DDDD]
 * L: Longitude [DD.DDDD]
 
+## General information dataset (CoronavirusPL - General.csv)
+
+Dataset contains general information about COVID-19 pandemy in Poland.
+
+### Field description
+* Timestamp: Date [DD-MM-YYYY]
+* Confirmed: Number of confirmed Covid-19 cases in Poland
+* Deaths: Number of novel coronavirus (COVID-19) deaths in Poland
+* Recovered: Number of patients who have recovered from COVID-19 in Poland
+* In_the_hospital: Number of patients requiring hospitalization in Poland
+* In_quarantine: Number of people in quarantine in Poland
+* Under_medical_supervision: Number of people under Public Health Monitoring in Poland
+* Number_of_tests_carried_out: Number of COVID-19 test carried out in Poland
+
+
 ### Update frequency
-* We tried update our dataset twice a day. But somedays dataset caould be updated once, around 23:00 UTC+1.
+* We update our dataset once a day (the next day morning after official information). We need more time to search for details in local media. 
 
 ### Data sources
-Dataset based on official statements presented by the Ministry of Health, Provincial Departments and media. 
+Dataset based on official statements presented by the Ministry of Health, Provincial Departments and local media. 
 
 ### Update frequency
-* Once/Twice a day.
+* Once a day.
 
 ---
 ## Who makes a dataset

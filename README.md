@@ -4,7 +4,7 @@ The dataset contains the latest available public data on COVID-19 infections in 
 
 # Comments to dataset
 
-# 25/03/2020
+## 25/03/2020
 * Sometimes information from 2 different sources doesn't match. When it happens, we choose information based on source, which is more local.
 
 

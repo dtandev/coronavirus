@@ -4,6 +4,10 @@ The dataset contains the latest available public data on COVID-19 infections in 
 
 # Comments to dataset
 
+# 25/03/2020
+* Sometimes information from 2 different sources doesn't match. When it happens, we choose information based on source, which is more local.
+
+
 ## 18/03/2020
 * The government map about the diagnosed patients was generalized to voivodeships. The earlier map was divided into counties. Now, if we cannot match patients to their cities, the value in the 'city' column is filled in accordance with the following criteria:
 

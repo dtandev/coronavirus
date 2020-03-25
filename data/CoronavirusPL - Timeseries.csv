@@ -698,8 +698,9 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 23-03-2020,Wielkopolskie,Kalisz,,I,F,POL,,
 23-03-2020,Wielkopolskie,Poznań,,I,F,POL,,
 23-03-2020,Wielkopolskie,Poznań,,I,M,POL,,
-23-03-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,17
+23-03-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,AUT,,17
 24-03-2020,Wielkopolskie,Piła,,I,,,,
+24-03-2020,Wielkopolskie,Grodzisk Wielkopolski,,I,M,,Other patient,
 08-03-2020,Małopolskie,Kraków,,I,M,ITA,,60
 16-03-2020,Małopolskie,Kraków,,I,F,,,
 17-03-2020,Małopolskie,Kraków,,I,M,,,

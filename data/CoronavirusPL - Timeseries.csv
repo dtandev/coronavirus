@@ -1241,7 +1241,7 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 28-03-2020,Wielkopolskie,Kalisz,,I,M,,,
 28-03-2020,Wielkopolskie,Gniezno,,I,M,,,
 28-03-2020,Wielkopolskie,Poznań,,I,M,,,
-28-03-2020,Wielkopolskie,,,I,,,,
+28-03-2020,Wielkopolskie,Poznań,,I,,,,
 08-03-2020,Małopolskie,Kraków,,I,M,ITA,,60
 16-03-2020,Małopolskie,Kraków,,I,F,,,
 17-03-2020,Małopolskie,Kraków,,I,M,,,

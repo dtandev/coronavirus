@@ -4,6 +4,9 @@ The dataset contains the latest available public data on COVID-19 infections in 
 
 # Comments to dataset
 
+## 03/04/2020
+* Since today we will update the database in the evening, next day. 
+
 ## 01/04/2020
 * A few days ago we lunched map application: www.wirusnamapie.pl . Enjoy! :)
 

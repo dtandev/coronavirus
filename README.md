@@ -4,6 +4,9 @@ The dataset contains the latest available public data on COVID-19 infections in 
 
 # Comments to dataset
 
+## 04/04/2020
+* If you use our dataset, please, send your work to us (mkn.geosin@uwm.edu.pl). We will share it on our social media channels. 
+
 ## 03/04/2020
 * Since today we will update the database in the evening, next day. 
 

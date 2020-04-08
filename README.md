@@ -4,6 +4,9 @@ The dataset contains the latest available public data on COVID-19 infections in 
 
 # Comments to dataset
 
+## 08/04/2020
+* There is no consistency in informing about healthy and recovered people. Some sources do not treat recovered patients as healthy and some do.
+
 ## 04/04/2020
 * If you use our dataset, please, send your work to us (mkn.geosin@uwm.edu.pl). We will share it on our social media channels. 
 

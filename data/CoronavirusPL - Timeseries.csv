@@ -1336,14 +1336,40 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 17-04-2020,Kujawsko-pomorskie,Żnin,,I,,,,
 17-04-2020,Kujawsko-pomorskie,Żnin,,I,,,,
 17-04-2020,Kujawsko-pomorskie,Żnin,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Grudziądz,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Aleksandrów Kujawski,,I,,,,
 18-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
-18-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
-18-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
-18-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
-18-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
-18-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
-18-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
-18-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Żnin,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+18-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+19-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+19-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
+19-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+19-04-2020,Kujawsko-pomorskie,Lipno,,I,,,,
+19-04-2020,Kujawsko-pomorskie,Nakło nad Notecią,,I,,,,
+19-04-2020,Kujawsko-pomorskie,Świecie,,I,,,,
+19-04-2020,Kujawsko-pomorskie,Wąbrzeźno,,I,,,,
+19-04-2020,Kujawsko-pomorskie,Żnin,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Toruń,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
+20-04-2020,Kujawsko-pomorskie,Bydgoszcz,,I,,,,
 10-03-2020,Lubelskie,Bełżyce,,I,M,,,53
 11-03-2020,Lubelskie,Lublin,,I,F,POL,Family,55
 12-03-2020,Lubelskie,Lublin,,I,,POL,Family,
@@ -1635,6 +1661,21 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Lubelskie,Radzyń Podlaski,,I,F,,,
 18-04-2020,Lubelskie,Radzyń Podlaski,,I,F,,,
 18-04-2020,Lubelskie,Lublin,,I,M,,,
+19-04-2020,Lubelskie,Lublin,,I,M,,,
+19-04-2020,Lubelskie,Lublin,,I,M,,,
+19-04-2020,Lubelskie,Zamość,,I,M,,,
+19-04-2020,Lubelskie,Zamość,,I,F,,,
+19-04-2020,Lubelskie,Zamość,,I,F,,,
+19-04-2020,Lubelskie,Zamość,,I,M,,,
+19-04-2020,Lubelskie,Zamość,,I,M,,,
+19-04-2020,Lubelskie,Zamość,,I,M,,,
+19-04-2020,Lubelskie,Zamość,,I,F,,,
+19-04-2020,Lubelskie,Puławy,,I,F,,,
+19-04-2020,Lubelskie,Puławy,,I,F,,,
+19-04-2020,Lubelskie,Puławy,,I,F,,,
+19-04-2020,Lubelskie,Puławy,,I,M,,,
+19-04-2020,Lubelskie,Puławy,,I,M,,,
+19-04-2020,Lubelskie,Puławy,,I,F,,,
 04-03-2020,Lubuskie,Cybinka,,I,M,DEU,,66
 15-03-2020,Lubuskie,Gorzów Wielkopolski,,I,F,GBR,,
 18-03-2020,Lubuskie,Świebodzin,,I,M,DEU,,
@@ -3601,6 +3642,115 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 17-04-2020,Mazowieckie,Ostrów Mazowiecki,,I,,,,
 17-04-2020,Mazowieckie,Płock,,I,M,,,
 17-04-2020,Mazowieckie,Gostynin,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Warszawa,,I,,,,
+18-04-2020,Mazowieckie,Radom,,I,,,,
+18-04-2020,Mazowieckie,Radom,,I,,,,
+18-04-2020,Mazowieckie,Radom,,I,,,,
+18-04-2020,Mazowieckie,Radom,,I,,,,
+18-04-2020,Mazowieckie,Radom,,I,,,,
+18-04-2020,Mazowieckie,Radom,,I,,,,
+18-04-2020,Mazowieckie,Radom,,I,,,,
+18-04-2020,Mazowieckie,Grójec,,I,,,,
+18-04-2020,Mazowieckie,Grójec,,I,,,,
+18-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+18-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+18-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+18-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+18-04-2020,Mazowieckie,Pruszków,,I,,,,
+18-04-2020,Mazowieckie,Pruszków,,I,,,,
+18-04-2020,Mazowieckie,Pruszków,,I,,,,
+18-04-2020,Mazowieckie,Pruszków,,I,,,,
+18-04-2020,Mazowieckie,Wołomin,,I,,,,
+18-04-2020,Mazowieckie,Wołomin,,I,,,,
+18-04-2020,Mazowieckie,Szydłowiec,,I,,,,
+18-04-2020,Mazowieckie,Szydłowiec,,I,,,,
+18-04-2020,Mazowieckie,Legionowo,,I,,,,
+18-04-2020,Mazowieckie,Legionowo,,I,,,,
+18-04-2020,Mazowieckie,Legionowo,,I,,,,
+18-04-2020,Mazowieckie,Grodzisk Mazowiecki,,I,,,,
+18-04-2020,Mazowieckie,Grodzisk Mazowiecki,,I,,,,
+18-04-2020,Mazowieckie,Kozienice,,I,,,,
+18-04-2020,Mazowieckie,Mińsk Mazowiecki,,I,,,,
+18-04-2020,Mazowieckie,Mińsk Mazowiecki,,I,,,,
+18-04-2020,Mazowieckie,Mińsk Mazowiecki,,I,,,,
+18-04-2020,Mazowieckie,Ożarów Mazowiecki,,I,,,,
+18-04-2020,Mazowieckie,Węgrów,,I,,,,
+18-04-2020,Mazowieckie,Żyrardów,,I,,,,
+18-04-2020,Mazowieckie,Żyrardów,,I,,,,
+18-04-2020,Mazowieckie,Zwoleń,,I,,,,
+18-04-2020,Mazowieckie,Zwoleń,,I,,,,
+18-04-2020,Mazowieckie,Płock,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Warszawa,,I,,,,
+19-04-2020,Mazowieckie,Radom,,I,,,,
+19-04-2020,Mazowieckie,Radom,,I,,,,
+19-04-2020,Mazowieckie,Radom,,I,,,,
+19-04-2020,Mazowieckie,Radom,,I,,,,
+19-04-2020,Mazowieckie,Radom,,I,,,,
+19-04-2020,Mazowieckie,Radom,,I,,,,
+19-04-2020,Mazowieckie,Radom,,I,,,,
+19-04-2020,Mazowieckie,Radom,,I,,,,
+19-04-2020,Mazowieckie,Grójec,,I,,,,
+19-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+19-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+19-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+19-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+19-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+19-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+19-04-2020,Mazowieckie,Białobrzegi,,I,,,,
+19-04-2020,Mazowieckie,Pruszków,,I,,,,
+19-04-2020,Mazowieckie,Pruszków,,I,,,,
+19-04-2020,Mazowieckie,Pruszków,,I,,,,
+19-04-2020,Mazowieckie,Szydłowiec,,I,,,,
+19-04-2020,Mazowieckie,Legionowo,,I,,,,
+19-04-2020,Mazowieckie,Siedlce,,I,,,,
+19-04-2020,Mazowieckie,Piaseczno,,I,,,,
+19-04-2020,Mazowieckie,Grodzisk Mazowiecki,,I,,,,
+19-04-2020,Mazowieckie,Mińsk Mazowiecki,,I,,,,
+19-04-2020,Mazowieckie,Otwock,,I,,,,
+19-04-2020,Mazowieckie,Ożarów Mazowiecki,,I,,,,
+19-04-2020,Mazowieckie,Ożarów Mazowiecki,,I,,,,
+19-04-2020,Mazowieckie,Nowy Dwór mazowiecki,,I,,,,
+19-04-2020,Mazowieckie,Nowy Dwór mazowiecki,,I,,,,
+19-04-2020,Mazowieckie,Nowy Dwór mazowiecki,,I,,,,
+19-04-2020,Mazowieckie,Żyrardów,,I,,,,
+19-04-2020,Mazowieckie,Sochaczewo,,I,,,,
+19-04-2020,Mazowieckie,Sochaczewo,,I,,,,
+19-04-2020,Mazowieckie,Sochaczewo,,I,,,,
+19-04-2020,Mazowieckie,Sochaczewo,,I,,,,
+19-04-2020,Mazowieckie,Sochaczewo,,I,,,,
+19-04-2020,Mazowieckie,Płock,,I,,,,
+19-04-2020,Mazowieckie,Gostynin,,I,,,,
 08-03-2020,Małopolskie,Kraków,,I,M,ITA,,60
 16-03-2020,Małopolskie,Kraków,,I,F,,,
 17-03-2020,Małopolskie,Kraków,,I,M,,,
@@ -4231,6 +4381,22 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Małopolskie,Wieliczka,,I,M,,,
 18-04-2020,Małopolskie,Wieliczka,,I,M,,,
 18-04-2020,Małopolskie,Myślenice,,I,M,,,
+19-04-2020,Małopolskie,Myślenice,,I,F,,,
+19-04-2020,Małopolskie,Myślenice,,I,F,,,
+19-04-2020,Małopolskie,Myślenice,,I,F,,,
+19-04-2020,Małopolskie,Myślenice,,I,F,,,
+19-04-2020,Małopolskie,Brzesko,,I,F,,,
+19-04-2020,Małopolskie,Brzesko,,I,F,,,
+19-04-2020,Małopolskie,Limanowa,,I,M,,,
+19-04-2020,Małopolskie,Oświęcim,,I,M,,,
+19-04-2020,Małopolskie,Bochnia,,I,F,,,
+19-04-2020,Małopolskie,Bochnia,,I,F,,,
+19-04-2020,Małopolskie,Wadowice,,I,M,,,
+19-04-2020,Małopolskie,Wadowice,,I,M,,,
+19-04-2020,Małopolskie,Proszowice,,I,M,,,
+19-04-2020,Małopolskie,Wieliczka,,I,M,,,
+19-04-2020,Małopolskie,Sucha Beskidzka,,I,M,,,
+19-04-2020,Małopolskie,Myślenice,,I,M,,,
 11-03-2020,Opolskie,Strzelce Opolskie,,I,M,AUT,Friends,
 12-03-2020,Opolskie,Strzelce Opolskie,,I,M,AUT,Friends,
 14-03-2020,Opolskie,Strzelce Opolskie,,I,M,AUT,,64
@@ -4488,7 +4654,6 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 17-04-2020,Opolskie,Opole,,I,M,POL,,
 18-04-2020,Opolskie,Olesno,,I,F,POL,,
 18-04-2020,Opolskie,Olesno,,I,F,POL,,
-18-04-2020,Opolskie,Olesno,,I,F,POL,,
 18-04-2020,Opolskie,Olesno,,I,M,POL,,
 18-04-2020,Opolskie,Opole,,I,F,POL,,
 18-04-2020,Opolskie,Opole,,I,F,POL,,
@@ -4503,6 +4668,11 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Opolskie,Opole,,I,F,POL,,
 18-04-2020,Opolskie,Opole,,I,F,POL,,
 18-04-2020,Opolskie,Opole,,I,M,POL,,
+19-04-2020,Opolskie,Kędzierzyn-Koźle,,I,F,POL,,
+19-04-2020,Opolskie,Kędzierzyn-Koźle,,I,F,POL,,
+19-04-2020,Opolskie,Kędzierzyn-Koźle,,I,M,POL,,
+19-04-2020,Opolskie,Opole,,I,F,POL,,
+19-04-2020,Opolskie,Opole,,I,F,POL,,
 11-03-2020,Podkarpackie,Łańcut,,I,F,POL,,57
 12-03-2020,Podkarpackie,Rzeszów,,I,M,POL,Other patient,60
 12-03-2020,Podkarpackie,Rzeszów,,I,M,POL,Other patient,65
@@ -4762,6 +4932,10 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Podkarpackie,Stalowa Wola,,I,F,,,
 18-04-2020,Podkarpackie,Stalowa Wola,,I,M,,,
 18-04-2020,Podkarpackie,Rzeszów,,I,M,,,
+19-04-2020,Podkarpackie,Stalowa Wola,,I,M,,,
+19-04-2020,Podkarpackie,Rzeszów,,I,M,,,
+19-04-2020,Podkarpackie,Sanok,,I,M,,,
+19-04-2020,Podkarpackie,Sanok,,I,F,,,
 17-03-2020,Podlaskie,Sobolewo,,I,M,,,35
 20-03-2020,Podlaskie,Sobolewo,,I,M,,,
 20-03-2020,Podlaskie,Białystok,,I,F,GBR,,
@@ -5078,6 +5252,11 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Podlaskie,Białystok,,I,M,,,
 18-04-2020,Podlaskie,Białystok,,I,M,,,
 18-04-2020,Podlaskie,Białystok,,I,M,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,I,F,,,
+19-04-2020,Podlaskie,Białystok,,I,M,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,I,M,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,I,F,,,
+19-04-2020,Podlaskie,Mońki,,I,F,,,
 14-03-2020,Pomorskie,Gdańsk,,I,F,,,60
 14-03-2020,Pomorskie,Gdańsk,,I,F,,,49
 17-03-2020,Pomorskie,Gdańsk,,I,M,POL,Other patient,78
@@ -5285,6 +5464,8 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Pomorskie,Wejherowo,,I,M,,,
 18-04-2020,Pomorskie,Kartuzy,,I,F,,,
 18-04-2020,Pomorskie,Gdynia,,I,M,,,84
+19-04-2020,Pomorskie,Puck,,I,F,,,
+19-04-2020,Pomorskie,Tczew,,I,F,,,
 06-03-2020,Warmińsko-Mazurskie,Szczytno,,I,F,DEU,Travel co-passenger,43
 07-03-2020,Warmińsko-Mazurskie,Olsztyn,,I,M,DEU,Travel co-passenger,
 11-03-2020,Warmińsko-Mazurskie,Elbląg,,I,F,ITA,Travel co-passenger,
@@ -5424,6 +5605,9 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 17-04-2020,Warmińsko-Mazurskie,Ełk,,I,M,,,
 17-04-2020,Warmińsko-Mazurskie,Elbląg,,I,F,,,
 17-04-2020,Warmińsko-Mazurskie,Elbląg,,I,F,,,
+19-04-2020,Warmińsko-Mazurskie,Pisz,,I,F,,,
+19-04-2020,Warmińsko-Mazurskie,Braniewo,,I,F,,,
+19-04-2020,Warmińsko-Mazurskie,Elbląg,,I,M,,,
 09-03-2020,Wielkopolskie,Poznań,,I,F,,Family,57
 11-03-2020,Wielkopolskie,Poznań,,I,F,,Family,
 12-03-2020,Wielkopolskie,Poznań,,I,M,,Family,
@@ -6073,8 +6257,6 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 13-04-2020,Wielkopolskie,Kalisz,,I,F,,,26
 13-04-2020,Wielkopolskie,Kalisz,,I,F,,,24
 13-04-2020,Wielkopolskie,Kalisz,,I,F,,,56
-13-04-2020,Wielkopolskie,Kalisz,,I,F,,,40
-13-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,26
 14-04-2020,Wielkopolskie,Kępno,,I,M,,,61
 14-04-2020,Wielkopolskie,Gniezno,,I,F,,,45
 14-04-2020,Wielkopolskie,Pleszew,,I,F,,,61
@@ -6306,24 +6488,160 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 17-04-2020,Wielkopolskie,Gniezno,,I,F,,,56
 17-04-2020,Wielkopolskie,Kalisz,,I,M,,,56
 17-04-2020,Wielkopolskie,Kalisz,,I,M,,,86
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
-18-04-2020,Wielkopolskie,Poznań,,I,,,,
+18-04-2020,Wielkopolskie,Kalisz,,I,M,,,70
+18-04-2020,Wielkopolskie,Kalisz,,I,M,,,47
+18-04-2020,Wielkopolskie,Kalisz,,I,F,,,45
+18-04-2020,Wielkopolskie,Kalisz,,I,M,,,46
+18-04-2020,Wielkopolskie,Gniezno,,I,F,,,29
+18-04-2020,Wielkopolskie,Poznań,,I,F,,,31
+18-04-2020,Wielkopolskie,Leszno,,I,F,,,35
+18-04-2020,Wielkopolskie,Poznań,,I,F,,,29
+18-04-2020,Wielkopolskie,Śrem,,I,M,,,43
+18-04-2020,Wielkopolskie,Poznań,,I,F,,,50
+18-04-2020,Wielkopolskie,Poznań,,I,F,,,42
+18-04-2020,Wielkopolskie,Poznań,,I,F,,,51
+18-04-2020,Wielkopolskie,Kalisz,,I,F,,,29
+18-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,56
+18-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,
+18-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,20
+18-04-2020,Wielkopolskie,Kalisz,,I,F,,,37
+18-04-2020,Wielkopolskie,Kalisz,,I,F,,,51
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,
+19-04-2020,Wielkopolskie,Kępno,,I,F,,,30
+19-04-2020,Wielkopolskie,Ostrzeszów,,I,F,,,20
+19-04-2020,Wielkopolskie,Ostrzeszów,,I,M,,,20
+19-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,20
+19-04-2020,Wielkopolskie,Krotoszyn,,I,M,,,
+19-04-2020,Wielkopolskie,Krotoszyn,,I,M,,,27
+19-04-2020,Wielkopolskie,Ostrzeszów,,I,M,,,21
+19-04-2020,Wielkopolskie,Kępno,,I,F,,,39
+19-04-2020,Wielkopolskie,Gostyń,,I,M,,,30
+19-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,34
+19-04-2020,Wielkopolskie,Krotoszyn,,I,M,,,
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,49
+19-04-2020,Wielkopolskie,Gniezno,,I,M,,,49
+19-04-2020,Wielkopolskie,Gniezno,,I,M,,,50
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,52
+19-04-2020,Wielkopolskie,Gniezno,,I,M,,,49
+19-04-2020,Wielkopolskie,Śrem,,I,F,,,38
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,54
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,53
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,47
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,55
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,50
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,48
+19-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,79
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,86
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,88
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,90
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,81
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,93
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,72
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,73
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,81
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,77
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,85
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,79
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,80
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,80
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,84
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,83
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,91
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,84
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,76
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,92
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,93
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,70
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,79
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,72
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,69
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,48
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,73
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,55
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,42
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,74
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,47
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,59
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,85
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,77
+19-04-2020,Wielkopolskie,Pleszew,,I,F,,,69
+19-04-2020,Wielkopolskie,Turek,,I,F,,,21
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,56
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,78
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,85
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,90
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,77
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,64
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,84
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,95
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,63
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,64
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,84
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,96
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,61
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,73
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,70
+19-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,24
+19-04-2020,Wielkopolskie,Jarocin,,I,F,,,64
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,71
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,87
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,44
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,44
+19-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,45
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,50
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,36
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,41
+19-04-2020,Wielkopolskie,Jarocin,,I,M,,,32
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,45
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,52
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,60
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,48
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,57
+19-04-2020,Wielkopolskie,Pleszew,,I,F,,,55
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,37
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,57
+19-04-2020,Wielkopolskie,Krotoszyn,,I,M,,,73
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,57
+19-04-2020,Wielkopolskie,Gniezno,,I,M,,,58
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,36
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,58
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,46
+19-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,21
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,50
+19-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,48
+19-04-2020,Wielkopolskie,Pleszew,,I,F,,,28
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,47
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,27
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,40
+19-04-2020,Wielkopolskie,Pleszew,,I,F,,,24
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,46
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,55
+19-04-2020,Wielkopolskie,Gniezno,,I,F,,,53
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,33
+19-04-2020,Wielkopolskie,Pleszew,,I,F,,,55
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,62
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,45
+19-04-2020,Wielkopolskie,Pleszew,,I,M,,,33
+19-04-2020,Wielkopolskie,Kalisz,,I,M,,,77
+19-04-2020,Wielkopolskie,Kalisz,,I,F,,,47
+19-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,47
+20-04-2020,Wielkopolskie,Gniezno,,I,F,,,49
+20-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,78
+20-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,42
+20-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,F,,,
+20-04-2020,Wielkopolskie,Ostrzeszów,,I,F,,,47
+20-04-2020,Wielkopolskie,Pleszew,,I,F,,,57
+20-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,
+20-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,70
+20-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,54
+20-04-2020,Wielkopolskie,Kalisz,,I,F,,,96
+20-04-2020,Wielkopolskie,Krotoszyn,,I,F,,,57
+20-04-2020,Wielkopolskie,Ostrów Wielkopolski,,I,M,,,68
+20-04-2020,Wielkopolskie,Kalisz,,I,F,,,77
+20-04-2020,Wielkopolskie,Kalisz,,I,F,,,74
 06-03-2020,Zachodniopomorskie,Stargard,,I,F,ITA,,63
 06-03-2020,Zachodniopomorskie,Stargard,,I,M,ITA,,65
 12-03-2020,Zachodniopomorskie,Szczecin,,I,F,IRL,,
@@ -6573,6 +6891,23 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Zachodniopomorskie,Koszalin,,I,F,,,
 18-04-2020,Zachodniopomorskie,Koszalin,,I,F,,,
 18-04-2020,Zachodniopomorskie,Koszalin,,I,M,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,M,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,M,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,M,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,F,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,F,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,F,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,F,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,F,,,
+19-04-2020,Zachodniopomorskie,Sławno,,I,F,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,F,,,
+19-04-2020,Zachodniopomorskie,Kołobrzeg,,I,F,,,
+19-04-2020,Zachodniopomorskie,Kołobrzeg,,I,F,,,
+19-04-2020,Zachodniopomorskie,Kołobrzeg,,I,M,,,
+19-04-2020,Zachodniopomorskie,Białogard,,I,F,,,
+19-04-2020,Zachodniopomorskie,Szczecin,,I,M,,,
+19-04-2020,Zachodniopomorskie,Koszalin,,I,M,,,
+19-04-2020,Zachodniopomorskie,Stargard,,I,M,,,
 11-03-2020,Łódzkie,Łódź,,I,F,NOR,,
 12-03-2020,Łódzkie,Łódź,,I,M,DEU,,
 13-03-2020,Łódzkie,Łódź,,I,M,DEU,,
@@ -7213,6 +7548,26 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Łódzkie,Łódź,,I,M,,,
 18-04-2020,Łódzkie,Łódź,,I,M,,,
 18-04-2020,Łódzkie,Łódź,,I,M,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
+19-04-2020,Łódzkie,Łódź,,I,,,,
 08-03-2020,Śląskie,Racibórz,,I,M,ITA,,
 08-03-2020,Śląskie,Racibórz,,I,F,,Friends,
 09-03-2020,Śląskie,Racibórz,,I,,POL,Other patient,
@@ -8485,6 +8840,176 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Śląskie,Żory,,I,F,,,
 18-04-2020,Śląskie,Ruda Śląśka,,I,M,,,
 18-04-2020,Śląskie,Sosnowiec,,I,M,,,
+19-04-2020,Śląskie,Żory,,I,F,,,
+19-04-2020,Śląskie,Żory,,I,M,,,
+19-04-2020,Śląskie,Tarnowskie Góry,,I,,,,
+19-04-2020,Śląskie,Tarnowskie Góry,,I,F,,,
+19-04-2020,Śląskie,Żywiec,,I,M,,,
+19-04-2020,Śląskie,Żywiec,,I,F,,,
+19-04-2020,Śląskie,Żywiec,,I,F,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Żywiec,,I,,,,
+19-04-2020,Śląskie,Katowice,,I,,,,
+19-04-2020,Śląskie,Katowice,,I,,,,
+19-04-2020,Śląskie,Katowice,,I,,,,
+19-04-2020,Śląskie,Katowice,,I,,,,25
+19-04-2020,Śląskie,Katowice,,I,,,,52
+19-04-2020,Śląskie,Katowice,,I,,,,
+19-04-2020,Śląskie,Katowice,,I,,,,
+19-04-2020,Śląskie,Bielsko Biała,,I,M,,,
+19-04-2020,Śląskie,Rybnik,,I,M,,,
+19-04-2020,Śląskie,Rybnik,,I,M,,,
+19-04-2020,Śląskie,Rybnik,,I,F,,,
+19-04-2020,Śląskie,Rybnik,,I,F,,,
+19-04-2020,Śląskie,Rybnik,,I,F,,,
+19-04-2020,Śląskie,Tychy,,I,,,,
+19-04-2020,Śląskie,Tychy,,I,,,,
+19-04-2020,Śląskie,Tychy,,I,,,,4
+19-04-2020,Śląskie,Tychy,,I,,,,66
+19-04-2020,Śląskie,Tychy,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,82
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,28
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Jastrzębie-Zdrój,,I,,,,
+19-04-2020,Śląskie,Cieszyn,,I,F,,,
+19-04-2020,Śląskie,Cieszyn,,I,F,,,
+19-04-2020,Śląskie,Pszczyna,,I,,,,
+19-04-2020,Śląskie,Pszczyna,,I,,,,
+19-04-2020,Śląskie,Pszczyna,,I,,,,
+19-04-2020,Śląskie,Pszczyna,,I,,,,
+19-04-2020,Śląskie,Pszczyna,,I,,,,
+19-04-2020,Śląskie,Pszczyna,,I,,,,
+19-04-2020,Śląskie,Pszczyna,,I,,,,49
+19-04-2020,Śląskie,Pszczyna,,I,,,,83
+19-04-2020,Śląskie,Mikołów,,I,F,,,
+19-04-2020,Śląskie,Mikołów,,I,F,,,
+19-04-2020,Śląskie,Mikołów,,I,F,,,
+19-04-2020,Śląskie,Mikołów,,I,F,,,
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,22
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,79
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,
+19-04-2020,Śląskie,Wodzisław Śląski,,I,,,,
+19-04-2020,Śląskie,Częstochowa,,I,F,,,
+19-04-2020,Śląskie,Bytom,,I,M,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Dąbrowa Górnicza,,I,,,,
+19-04-2020,Śląskie,Będzin,,I,,,,
+19-04-2020,Śląskie,Będzin,,I,,,,
+19-04-2020,Śląskie,Będzin,,I,,,,
+19-04-2020,Śląskie,Będzin,,I,,,,
+19-04-2020,Śląskie,Będzin,,I,,,,
+19-04-2020,Śląskie,Będzin,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,F,,,
+19-04-2020,Śląskie,Zawiercie,,I,F,,,
+19-04-2020,Śląskie,Zawiercie,,I,F,,,
+19-04-2020,Śląskie,Zawiercie,,I,F,,,
+19-04-2020,Śląskie,Lubliniec,,I,F,,,
+19-04-2020,Śląskie,Zabrze,,I,F,,,
+19-04-2020,Śląskie,Zabrze,,I,F,,,
+19-04-2020,Śląskie,Sosnowiec,,I,F,,,
+19-04-2020,Śląskie,Sosnowiec,,I,F,,,
+19-04-2020,Śląskie,Sosnowiec,,I,F,,,
+19-04-2020,Śląskie,Bieruń,,I,F,,,
+19-04-2020,Śląskie,Kłobuck,,I,M,,,
+19-04-2020,Śląskie,Ruda Śląśka,,I,F,,,
+19-04-2020,Śląskie,Rybnik,,I,F,,,
+19-04-2020,Śląskie,Racibórz,,I,M,,,
+19-04-2020,Śląskie,Racibórz,,I,M,,,
+19-04-2020,Śląskie,Żory,,I,F,,,
+19-04-2020,Śląskie,Katowice,,I,,,,
+19-04-2020,Śląskie,Chorzów,,I,F,,,
+19-04-2020,Śląskie,Chorzów,,I,M,,,
+19-04-2020,Śląskie,Chorzów,,I,M,,,
+19-04-2020,Śląskie,Żywiec,,I,F,,,
+19-04-2020,Śląskie,Żywiec,,I,M,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,8
+19-04-2020,Śląskie,Lubliniec,,I,,,,61
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Lubliniec,,I,,,,
+19-04-2020,Śląskie,Mikołów,,I,F,,,
+19-04-2020,Śląskie,Częstochowa,,I,M,,,
+19-04-2020,Śląskie,Częstochowa,,I,M,,,
+19-04-2020,Śląskie,Częstochowa,,I,F,,,
+19-04-2020,Śląskie,Sosnowiec,,I,F,,,
+19-04-2020,Śląskie,Sosnowiec,,I,M,,,
+19-04-2020,Śląskie,Kłobuck,,I,M,,,
+19-04-2020,Śląskie,Żywiec,,I,M,,,
+19-04-2020,Śląskie,Żywiec,,I,F,,,
 14-03-2020,Świętokrzyskie,Starachowice,,I,M,,,
 15-03-2020,Świętokrzyskie,Kielce,,I,M,,,
 18-03-2020,Świętokrzyskie,Starachowice,,I,F,,,
@@ -8687,6 +9212,13 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Świętokrzyskie,Busko-Zdrój,,I,M,,,
 18-04-2020,Świętokrzyskie,Końskie,,I,F,,,
 18-04-2020,Świętokrzyskie,Kielce,,I,M,,,
+19-04-2020,Świętokrzyskie,Końskie,,I,M,,,
+19-04-2020,Świętokrzyskie,Końskie,,I,F,,,
+19-04-2020,Świętokrzyskie,Końskie,,I,F,,,
+19-04-2020,Świętokrzyskie,Kielce,,I,M,,,
+19-04-2020,Świętokrzyskie,Włoszczowa,,I,F,,,
+19-04-2020,Świętokrzyskie,Kielce,,I,F,,,
+19-04-2020,Świętokrzyskie,Skarżysko,,I,M,,,
 25-03-2020,Dolnośląskie,Wrocław,,R,M,,,66
 30-03-2020,Dolnośląskie,Wrocław,,R,F,,,74
 01-04-2020,Dolnośląskie,Wrocław,,R,F,,,
@@ -8775,6 +9307,14 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 15-04-2020,Lubuskie,Żagań,,R,,,,
 17-04-2020,Lubuskie,Zielona Góra,,R,,,,
 17-04-2020,Lubuskie,Zielona Góra,,R,,,,
+18-04-2020,Lubuskie,Zielona Góra,,R,,,,
+18-04-2020,Lubuskie,Zielona Góra,,R,,,,
+18-04-2020,Lubuskie,Zielona Góra,,R,,,,
+18-04-2020,Lubuskie,Zielona Góra,,R,,,,
+18-04-2020,Lubuskie,Zielona Góra,,R,,,,
+19-04-2020,Lubuskie,Zielona Góra,,R,,,,
+19-04-2020,Lubuskie,Zielona Góra,,R,,,,
+19-04-2020,Lubuskie,Zielona Góra,,R,,,,
 12-04-2020,Mazowieckie,Niedabyl,,R,,POL,,
 12-04-2020,Mazowieckie,Niedabyl,,R,,POL,,
 12-04-2020,Mazowieckie,Niedabyl,,R,,POL,,
@@ -8838,10 +9378,10 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 16-04-2020,Mazowieckie,Płock,,R,,,,
 16-04-2020,Mazowieckie,Płock,,R,,,,
 16-04-2020,Mazowieckie,Gostynin,,R,,,,
-16-04-2020,Mazowieckie,Sierpc,,R,,,,
-16-04-2020,Mazowieckie,Sierpc,,R,,,,
-16-04-2020,Mazowieckie,Zawidz,,R,,,,
-16-04-2020,Mazowieckie,Zawidz,,R,,,,
+16-04-2020,Mazowieckie,Sierpc,,R,M,,,38
+16-04-2020,Mazowieckie,Sierpc,,R,F,,,27
+16-04-2020,Mazowieckie,Zawidz,,R,,POL,,
+16-04-2020,Mazowieckie,Zawidz,,R,,POL,Family,
 26-03-2020,Podkarpackie,Leżajsk,,R,F,,,
 26-03-2020,Podkarpackie,Leżajsk,,R,F,,,
 30-03-2020,Podkarpackie,Stalowa Wola,,R,M,,,
@@ -8908,6 +9448,21 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Podkarpackie,Mielec,,R,F,,,
 18-04-2020,Podkarpackie,Mielec,,R,M,,,
 18-04-2020,Podkarpackie,Mielec,,R,,,,
+19-04-2020,Podkarpackie,Tarnobrzeg,,R,F,,,
+19-04-2020,Podkarpackie,Tarnobrzeg,,R,F,,,
+19-04-2020,Podkarpackie,Tarnobrzeg,,R,M,,,
+19-04-2020,Podkarpackie,Mielec,,R,F,,,
+19-04-2020,Podkarpackie,Mielec,,R,M,,,
+19-04-2020,Podkarpackie,Przeworsk,,R,M,,,
+19-04-2020,Podkarpackie,Przeworsk,,R,F,,,
+19-04-2020,Podkarpackie,Dębica,,R,M,,,
+19-04-2020,Podkarpackie,Dębica,,R,F,,,
+19-04-2020,Podkarpackie,Lesko,,R,,,,
+19-04-2020,Podkarpackie,Lesko,,R,M,,,
+19-04-2020,Podkarpackie,Rzeszów,,R,F,,,
+19-04-2020,Podkarpackie,Rzeszów,,R,F,,,
+19-04-2020,Podkarpackie,Przemyśl,,R,M,,,
+19-04-2020,Podkarpackie,Strzyżów,,R,M,,,
 03-04-2020,Podlaskie,Białystok,,R,,,,
 05-04-2020,Podlaskie,Łomża,,R,F,,,
 05-04-2020,Podlaskie,Łomża,,R,M,,,
@@ -8945,6 +9500,19 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 17-04-2020,Podlaskie,Suwałki,,R,F,,,
 18-04-2020,Podlaskie,Białystok,,R,F,,,
 18-04-2020,Podlaskie,Hajnówka,,R,M,,,
+19-04-2020,Podlaskie,Łomża,,R,M,,,
+19-04-2020,Podlaskie,Białystok,,R,M,,,
+19-04-2020,Podlaskie,Białystok,,R,M,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,R,F,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,R,F,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,R,M,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,R,M,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,R,M,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,R,F,,,
+19-04-2020,Podlaskie,Bielsk Podlaski,,R,M,,,
+19-04-2020,Podlaskie,Sokółka,,R,M,,,
+19-04-2020,Podlaskie,Sokółka,,R,F,,,
+19-04-2020,Podlaskie,Zambrów,,R,F,,,
 06-04-2020,Pomorskie,Gdańsk,,R,,,,
 06-04-2020,Pomorskie,Wejherowo,,R,,,,
 07-04-2020,Pomorskie,Gdańsk,,R,,,,
@@ -8977,6 +9545,13 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Pomorskie,Wejherowo,,R,,,,
 18-04-2020,Pomorskie,Gdańsk,,R,,,,
 18-04-2020,Pomorskie,Kościerzyna,,R,,,,
+19-04-2020,Pomorskie,Wejherowo,,R,,,,
+19-04-2020,Pomorskie,Wejherowo,,R,,,,
+19-04-2020,Pomorskie,Wejherowo,,R,,,,
+19-04-2020,Pomorskie,Gdańsk,,R,,,,
+19-04-2020,Pomorskie,Gdańsk,,R,,,,
+19-04-2020,Pomorskie,Gdańsk,,R,,,,
+19-04-2020,Pomorskie,Słupsk,,R,,,,
 26-03-2020,Warmińsko-Mazurskie,Olsztyn,,R,F,DEU,Travel co-passenger,43
 31-03-2020,Warmińsko-Mazurskie,Olsztyn,,R,M,DEU,Travel co-passenger,
 05-04-2020,Warmińsko-Mazurskie,Elbląg,,R,F,,,
@@ -9014,6 +9589,9 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 17-04-2020,Warmińsko-Mazurskie,Ostróda,,R,M,,,
 18-04-2020,Warmińsko-Mazurskie,Olsztyn,,R,M,,,
 18-04-2020,Warmińsko-Mazurskie,Olsztyn,,R,M,,,
+19-04-2020,Warmińsko-Mazurskie,Braniewo,,R,M,,,
+19-04-2020,Warmińsko-Mazurskie,Braniewo,,R,M,,,
+19-04-2020,Warmińsko-Mazurskie,Braniewo,,R,F,,,
 31-03-2020,Wielkopolskie,Poznań,,R,F,,,
 31-03-2020,Wielkopolskie,Poznań,,R,M,,,
 04-04-2020,Wielkopolskie,Poznań,,R,,,,
@@ -9108,6 +9686,11 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Zachodniopomorskie,Szczecin,,R,,,,
 18-04-2020,Zachodniopomorskie,Szczecin,,R,,,,
 18-04-2020,Zachodniopomorskie,Szczecin,,R,,,,
+19-04-2020,Zachodniopomorskie,Szczecin,,R,,,,
+19-04-2020,Zachodniopomorskie,Szczecin,,R,,,,
+19-04-2020,Zachodniopomorskie,Szczecin,,R,,,,
+19-04-2020,Zachodniopomorskie,Szczecin,,R,,,,
+19-04-2020,Zachodniopomorskie,Szczecin,,R,,,,
 25-03-2020,Łódzkie,Łódź,,R,F,,,
 25-03-2020,Łódzkie,Łódź,,R,F,,,
 25-03-2020,Łódzkie,Łódź,,R,M,,,
@@ -9269,6 +9852,27 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Łódzkie,Łódź,,R,,,,
 18-04-2020,Łódzkie,Łódź,,R,,,,
 18-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
+19-04-2020,Łódzkie,Łódź,,R,,,,
 25-03-2020,Śląskie,Cieszyn,,R,M,DEU,,
 25-03-2020,Śląskie,Gliwice,,R,M,ITA,,
 25-03-2020,Śląskie,Gliwice,,R,F,,Friends,
@@ -9327,6 +9931,8 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Śląskie,Bytom,,R,F,,,50
 18-04-2020,Śląskie,Gliwice,,R,M,,,61
 18-04-2020,Śląskie,Bielsko-Biała,,R,F,,,62
+19-04-2020,Śląskie,Zawiercie,,R,M,,,64
+19-04-2020,Śląskie,Cieszyn,,R,F,,,52
 13-03-2020,Dolnośląskie,Wrocław,,D,M,,,73
 17-03-2020,Dolnośląskie,Wałbrzych,,D,M,,,57
 25-03-2020,Dolnośląskie,Wrocław,,D,M,,,41
@@ -9487,6 +10093,7 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Mazowieckie,Warszawa,,D,F,,,74
 18-04-2020,Mazowieckie,Radom,,D,F,,,83
 18-04-2020,Mazowieckie,Zwoleń,,D,F,,,89
+19-04-2020,Mazowieckie,Pruszków,,D,M,,,82
 29-03-2020,Małopolskie,Myślenice,,D,M,,,89
 02-04-2020,Małopolskie,Kraków,,D,M,,,56
 02-04-2020,Małopolskie,Kraków,,D,M,,,61
@@ -9503,6 +10110,7 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 15-04-2020,Małopolskie,Kraków,,D,F,,,79
 15-04-2020,Małopolskie,Kraków,,D,F,,,56
 17-04-2020,Małopolskie,Kraków,,D,F,,,91
+19-04-2020,Małopolskie,Kraków,,D,M,,,63
 02-04-2020,Opolskie,Kędzierzyn-Koźle,,D,M,,,65
 06-04-2020,Opolskie,Kędzierzyn-Koźle,,D,F,,,87
 07-04-2020,Opolskie,Kędzierzyn-Koźle,,D,F,,,61
@@ -9515,6 +10123,7 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 17-04-2020,Opolskie,Kędzierzyn-Koźle,,D,F,,,84
 17-04-2020,Opolskie,Ozimek,,D,F,,,98
 17-04-2020,Opolskie,Kędzierzyn-Koźle,,D,F,,,86
+19-04-2020,Opolskie,Kędzierzyn-Koźle,,D,F,,,82
 16-03-2020,Podkarpackie,Łańcut,,D,M,,,67
 30-03-2020,Podkarpackie,Łańcut,,D,M,,,80
 30-03-2020,Podkarpackie,Łańcut,,D,F,,,32
@@ -9530,6 +10139,7 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 13-04-2020,Podkarpackie,Łańcut,,D,M,,,76
 15-04-2020,Podkarpackie,Tarnobrzeg,,D,F,,,65
 16-04-2020,Podkarpackie,Jarosław,,D,F,,,50
+19-04-2020,Podkarpackie,Jarosław,,D,M,,,85
 05-04-2020,Podlaskie,Łomża,,D,M,,,82
 16-04-2020,Podlaskie,Wysokie Mazowieckie,,D,M,,,87
 08-04-2020,Pomorskie,Gdańsk,,D,M,,,79
@@ -9585,8 +10195,12 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 17-04-2020,Wielkopolskie,Poznań,,D,F,,,71
 17-04-2020,Wielkopolskie,Poznań,,D,F,,,87
 18-04-2020,Wielkopolskie,Kalisz,,D,M,,,70
+19-04-2020,Wielkopolskie,Kalisz,,D,M,,,82
+19-04-2020,Wielkopolskie,Poznań,,D,M,,,87
 26-03-2020,Zachodniopomorskie,Białogard,,D,M,,,67
 02-04-2020,Zachodniopomorskie,Koszalin,,D,M,,,58
+19-04-2020,Zachodniopomorskie,Koszalin,,D,M,,,53
+19-04-2020,Zachodniopomorskie,Koszalin,,D,F,,,79
 01-04-2020,Łódzkie,Zgierz,,D,F,,,75
 03-04-2020,Łódzkie,Zgierz,,D,M,,,75
 03-04-2020,Łódzkie,Łódź,,D,M,,,72
@@ -9669,6 +10283,11 @@ Timestamp,Province,City,Postal code,Infection/Death/Recovery,Sex,Where_infected,
 18-04-2020,Śląskie,Kędzierzyn-Koźle,,D,F,,,84
 18-04-2020,Śląskie,Bytom,,D,M,,,86
 18-04-2020,Śląskie,Tychy,,D,F,,,85
+19-04-2020,Śląskie,Tychy,,D,M,,,65
+19-04-2020,Śląskie,Racibórz,,D,M,,,84
+19-04-2020,Śląskie,Racibórz,,D,M,,,76
+19-04-2020,Śląskie,Tychy,,D,M,,,88
+19-04-2020,Śląskie,Tychy,,D,F,,,81
 25-03-2020,Świętokrzyskie,Strachowice,,D,M,,,80
 08-04-2020,Świętokrzyskie,Starachowice,,D,M,,,71
 11-04-2020,Świętokrzyskie,Starachowice,,D,F,,,74

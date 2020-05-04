@@ -1,4 +1,4 @@
-Timestamp,Province,City,Infection/Death/Recovery,Infection/Death/Recovery,Sex,Where_infected,Who_infected,Age
+Timestamp,Province,City,Postal_code,Infection/Death/Recovery,Sex,Where_infected,Who_infected,Age
 06-03-2020,Dolnośląskie,Wrocław,,I,M,GBR,,26
 08-03-2020,Dolnośląskie,Wrocław,,I,M,ITA,Family,73
 09-03-2020,Dolnośląskie,Wrocław,,I,F,,Other patient,74

@@ -4,6 +4,9 @@ The dataset contains the latest available public data on COVID-19 infections in 
 
 # Comments to dataset
 
+## 21/06/2020
+* Today we made the last update of dataset. We looking for new opportunities and start new projects. Thank you so much for helpful comments. 
+
 ## 08/04/2020
 * There is no consistency in informing about healthy and recovered people. Some sources do not treat recovered patients as healthy and some do.
 
